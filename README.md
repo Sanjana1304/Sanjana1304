@@ -34,3 +34,6 @@ src="https://user-images.githubusercontent.com/64159652/155873675-44abc024-b25f-
 <br />
 <br />
 
+[instagram]:https://www.instagram.com/sanjana.sen_/
+[linkedin]: https://www.linkedin.com/in/sanjana-sen-a84b03231
+
