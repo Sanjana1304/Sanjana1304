@@ -1,6 +1,7 @@
 ### Hi there, I'm Sanjana👋
 <br>
-### I'm a Student
+
+## I'm a Student
 
 - 🔭 I’m currently doing my BTech in the field of Computer Science and Engineering from Presidency University, Bangalore.
 - 👩🏽‍💻 I'm a self-taught programmer who is always looking for challenges.
