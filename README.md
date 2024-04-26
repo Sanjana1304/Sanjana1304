@@ -20,7 +20,8 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-![reactt](https://github.com/Sanjana1304/Sanjana1304/assets/64159652/0a922948-c76e-41b0-a992-a2d6f4db05d4)
+![reactt](https://github.com/Sanjana1304/Sanjana1304/assets/64159652/e5edd1d9-cb37-4d84-bc3d-feadadc10e11)
+
 
 
 
