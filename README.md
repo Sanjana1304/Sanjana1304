@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanjana👋
 <br>
 
-<a href="https://sanjana1304.github.io/My-Portfolio/">Checkout My portfolio</a>
+<a href="https://sanjana1304.github.io/My-Portfolio/" target="_blank">Checkout My portfolio</a>
 ## I'm a Student
 
 - 🔭 I’m currently pursuing my BTech in the field of Computer Science and Engineering from Presidency University, Bangalore.
