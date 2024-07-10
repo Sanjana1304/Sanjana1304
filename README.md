@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing my BTech in the field of Computer Science and Engineering from Presidency University, Bangalore.
 - 👩🏽‍💻 I'm a self-taught web developer who is always looking for challenges.
-- 🕸 I’m currently learning and building websites using React.JS
+- 🕸 I’m currently learning and building websites using React.JS and Node.js
 
 
 ### Connect with me:
