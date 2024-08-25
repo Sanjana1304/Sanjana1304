@@ -1,23 +1,16 @@
-### Hi there, I'm Sanjana👋
+### 🌟 Hi there, I'm Sanjana👋
+🚀 A B.Tech CSE student with a specialization in Data Science, crafting seamless web experiences with a focus on full-stack development and modern technologies.
 <br>
 
-<a href="https://sanjana1304.github.io/My-Portfolio/" target="_blank">Checkout My portfolio</a>
-## I'm a Student
 
-- 🔭 I’m currently pursuing my BTech in the field of Computer Science and Engineering from Presidency University, Bangalore.
-- 👩🏽‍💻 I'm a self-taught web developer who is always looking for challenges.
-- 🕸 I’m currently learning and building websites using React.JS and Node.js
+- 🌐 You can Checkout My <a href="https://sanjana1304.github.io/My-Portfolio/" target="_blank"> Portfolio here</a>
+- 🌱 Continuous Learner: Always eager to explore new technologies and enhance my coding skills through hands-on experience.
+- 👩🏽‍💻 I'm currently focusing on mastering the MERN stack to build dynamic, full-stack web applications.
 
 
-### Connect with me:
 
-[<img align="left" alt="Sanjana1304 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sanjana1304 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sanjana1304 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-<br />
-
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -40,6 +33,14 @@ src="https://user-images.githubusercontent.com/64159652/155873675-44abc024-b25f-
 
 
 <br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="Sanjana1304 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sanjana1304 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sanjana1304 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 <br />
 
 [instagram]:https://www.instagram.com/sanjana.sen_/
