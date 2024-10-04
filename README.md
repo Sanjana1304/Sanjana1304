@@ -89,15 +89,15 @@
 
 
   <h3 style="display: inline;">Tools:</h3> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a style="display: inline;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> &nbsp;
+</a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> &nbsp;
+</a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a> &nbsp;
+</a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a>
