@@ -90,7 +90,7 @@
 
 <div style="display: flex;">
   <h3 >Tools:</h3> 
-<a style="display: inline;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -103,6 +103,12 @@
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a>
 </div>
+
+**Tools:** [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) &nbsp; 
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) &nbsp; 
+[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/) &nbsp; 
+[![Chart.js](https://www.chartjs.org/media/logo-title.svg)](https://www.chartjs.org/)
+
 
 
 </div>
