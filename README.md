@@ -88,7 +88,8 @@
   </a>
 
 
-  <h3 style="display: inline;">Tools:</h3> 
+<div style="display: flex;">
+  <h3 >Tools:</h3> 
 <a style="display: inline;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
@@ -101,6 +102,7 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a>
+</div>
 
 
 </div>
