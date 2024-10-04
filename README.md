@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sensanjana072@gmail.com**
 
-- 📄 For a concise overview of my skills, experience, and projects, check out my [https://drive.google.com/file/d/1aThA4RyUhSggOr03mi_eW8TlTZLESBDV/view?usp=sharing] (resume)
+- 📄 For a concise overview of my skills, experience, and projects, check out my [https://drive.google.com/file/d/1aThA4RyUhSggOr03mi_eW8TlTZLESBDV/view?usp=sharing](resume)
 
 - ⚡ Fun fact **When I’m not solving coding puzzles, you can find me dancing! Still figuring out whether I love dancing or coding more… but why choose when I can do both? 😊**
 
