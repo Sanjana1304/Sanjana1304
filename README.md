@@ -21,6 +21,7 @@
 <a href="https://www.hackerrank.com/sensanjana072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sensanjana072" height="30" width="40" /></a>
 </p>
 
+<h3>Languages and Tools</h3>
 <div align="left">
   <h3>Web Development</h3>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -74,8 +75,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 
-  <br/><br/>
-
   <!-- AI/ML -->
   <h3>AI/ML</h3>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -88,13 +87,15 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
 
-  <br/><br/>
 
   <!-- Tools -->
   <h3>Tools</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a> &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> &nbsp;
