@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI for ML Integration in my web app**
 
-- 👨‍💻 All of my projects are available at [https://sanjana1304.github.io/My-Portfolio/](https://sanjana1304.github.io/My-Portfolio/)
+- 👨‍💻 Check out my [portfolio](https://sanjana1304.github.io/My-Portfolio/) for a complete showcase of my projects!
 
 - 📫 How to reach me **sensanjana072@gmail.com**
 
