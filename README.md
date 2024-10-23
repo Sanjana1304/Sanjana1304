@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana S Acharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjana1304" alt="sanjana1304" /></a> </p>
 
 - 🔭 I’m currently working on [MediMatch](https://github.com/Sanjana1304/Medi-Match)
 
@@ -14,6 +13,8 @@
 - 📄 For a concise overview of my skills, experience, and projects, check out my [resume](https://drive.google.com/file/d/1aThA4RyUhSggOr03mi_eW8TlTZLESBDV/view?usp=sharing)
 
 - ⚡ Fun fact **When I’m not solving coding puzzles, you can find me dancing! Still figuring out whether I love dancing or coding more… but why choose when I can do both? 😊**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjana1304" alt="sanjana1304" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
